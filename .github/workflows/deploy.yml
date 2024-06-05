@@ -21,7 +21,7 @@ jobs:
           key: ${{ runner.os }}-node-binaries
           restore-keys: |
             ${{ runner.os }}-node-binaries
-      - uses: Genez-io/genezio-github-action@v1
+      - uses: Genez-io/genezio-github-action@v2
         if: steps.cache-node-binaries.outputs.cache-hit != 'true'
       - name: Check genezio version - this step is optional
         run: genezio --version
