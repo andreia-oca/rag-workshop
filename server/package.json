@@ -11,6 +11,7 @@
         "@genezio/types": "^1.0.14",
         "@langchain/community": "^0.0.44",
         "@langchain/openai": "^0.0.26",
+        "@lancedb/vectordb-linux-x64-gnu": "^0.4.16",
         "dotenv": "^16.4.5",
         "langchain": "^0.1.31",
         "vectordb": "^0.1.19"
