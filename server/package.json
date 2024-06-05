@@ -9,7 +9,11 @@
     "license": "ISC",
     "dependencies": {
         "@genezio/types": "^1.0.14",
-        "node-fetch": "^3.3.2"
+        "@langchain/community": "^0.0.44",
+        "@langchain/openai": "^0.0.26",
+        "dotenv": "^16.4.5",
+        "langchain": "^0.1.31",
+        "vectordb": "^0.1.19"
     },
     "prettier": {
         "tabWidth": 2
