@@ -1,0 +1,31 @@
+name: deploy
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy-backend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Cache npm binaries
+        id: cache-npm-binaries
+        uses: actions/cache@v4
+        with:
+          path: /opt/hostedtoolcache/node/20.12.2/x64/
+          key: ${{ runner.os }}-npm-binaries
+          restore-keys: |
+            ${{ runner.os }}-npm-binaries
+      - uses: Genez-io/genezio-github-action@v1
+        if: steps.cache-npm-binaries.outputs.cache-hit != 'true'
+      - name: Check genezio version - this step is optional
+        run: genezio --version
+      - name: Login with genezio - this step is required because we don't cache the genezio auth file
+        run: genezio login ${{ secrets.GENEZIO_TOKEN }}
+      - name: Deploy backend
+        run: genezio deploy
