@@ -1,13 +1,10 @@
 # Generative AI - RAG Workshop
 
-This repository contains the source code for the workshop ** ** held at [C3 Festival 2024](https://c3fest.com/).
+This repository contains the source code for the workshop *"Can LLMs Learn? Let’s Customize an LLM to Chat With Your Own Data"* held at [C3 Festival 2024](https://c3fest.com/).
 
 The application is a RAG application that takes as an input the user description and interests and generates a list of must-see speakers from C3 Festival.
 
 Feel free to fork it and use it as a template for your own projects.
-
-TODO: Add gitpod and codespaces buttons:
-
 
 <div style="display: flex; align-items: center;">
   <a href="https://gitpod.io/#https://github.com/andreia-oca/rag-workshop" style="margin-right: 10px;">
