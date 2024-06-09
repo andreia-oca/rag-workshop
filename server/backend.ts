@@ -15,14 +15,13 @@ export type UserDescription = {
   description: string;
 }
 
-export type Talks = {
-  title: string;
-  description: string;
+export type Recommendation = {
   speaker: string;
-  bio: string;
+  reason: string;
 }
 
 const CONTEXT_DOCS_NUMBER = 15
+const DATABASE_PATH = "./vectorStore";
 
 @GenezioDeploy()
 export class BackendService {
@@ -30,7 +29,7 @@ export class BackendService {
 
   // I am a fullstack software engineer interested in: open source, generative ai, backend technologies, cloud, cloud native, deployment, dev tools.
   // I am a product engineer interested in leadership, defining clear scopes, user experience, getting feedback
-  async ask(user: UserDescription): Promise<string> {
+  async ask(user: UserDescription): Promise<Recommendation[]> {
       const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
       if (!OPENAI_API_KEY) {
         throw new Error(
@@ -38,10 +37,8 @@ export class BackendService {
         );
       }
 
-      // Set the database path
-      const database = "./lancedb";
       // Connect to the database
-      const db = await connect(database);
+      const db = await connect(DATABASE_PATH);
       // Open the table
       const table = await db.openTable("vectors");
 
@@ -88,7 +85,7 @@ export class BackendService {
 Based on the provided user description select the top 3 speakers you would recommend to the user.
 You must also mention why you selected these speakers.
 
-You must respond as a json object with the following structure: a list of speakers with the following fields: speaker, why.
+You must respond as a json object with the following structure: a list of speakers with the following fields: speaker, reason.
 
 Do not add any additional information to the response.
 
@@ -116,12 +113,15 @@ Context: {context}`,
       const chain = setupAndRetrieval.pipe(prompt).pipe(model).pipe(outputParser);
 
       // Invoke the model to answer the question
-      const response = await chain.invoke(
+      const rawResponse = await chain.invoke(
         user.description,
       );
 
-      console.log("Answer:", response);
+      const response = rawResponse.replace('```json', '').replace('```', '');
+      const recommendationList = JSON.parse(response) as Recommendation[];
 
-      return response;
+      console.log("Recommendation list: ", recommendationList);
+
+      return recommendationList;
     }
 }
