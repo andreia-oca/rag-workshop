@@ -1,34 +1,404 @@
-{
-  "talks": [
-    {
-      "title": "Introduction to Microservices",
-      "description": "An overview of microservices architecture and its benefits.",
-      "speaker": "Jane Smith",
-      "bio": "Jane is a seasoned architect with over 15 years of experience in designing scalable systems."
-    },
-    {
-      "title": "Advanced TypeScript",
-      "description": "Deep dive into TypeScript features and best practices.",
-      "speaker": "Mark Johnson",
-      "bio": "Mark is a TypeScript expert and has contributed to several open-source projects."
-    },
-    {
-      "title": "DevOps Best Practices",
-      "description": "Strategies and tools for effective DevOps implementation.",
-      "speaker": "Alice Brown",
-      "bio": "Alice is a DevOps engineer with extensive experience in CI/CD pipelines and automation."
-    },
-    {
-      "title": "AI and Machine Learning",
-      "description": "An introduction to AI and machine learning concepts and applications.",
-      "speaker": "Robert Wilson",
-      "bio": "Robert is a data scientist with a focus on machine learning and artificial intelligence."
-    },
-    {
-      "title": "Cybersecurity Essentials",
-      "description": "Key principles and practices for ensuring cybersecurity in modern systems.",
-      "speaker": "Emily Davis",
-      "bio": "Emily is a cybersecurity expert with a background in ethical hacking and security analysis."
-    }
-  ]
-}
+
+"title": "Shaping a Career that You Love",
+"description": "<p>It is hard to know what you really want from your career, but answering this question is a powerful step towards gaining more agency and control in how you develop. This workshop will support you to know yourself better, to build your aspiration of who you are becoming in your career and to set a direction for where you would love to go. This will enable you to identify actions to take to be more intentional and deliberate in the development of your career.</p>\n",
+"name": "Joel Chippindale",
+"bio": "Joel is a CTO Coach who supports start-up and scale-up CTOs to successfully and confidently navigate the changes in their roles as their businesses evolve. He has over 20 years experience building, scaling and leading software development teams, mainly in start-ups, where he held both CTO and COO roles.",
+"name": "Nancy Choi",
+"bio": "Nancy is a Millennial Executive at a Fortune 500 company as well as a certified Executive and Career Coach.  With a 15-year career in innovative startups and large companies, she understands the challenges of Modern Leadership intimately.  Nancy works with modern leaders to navigate their career and leadership with more confidence, purpose, and impact. ",
+
+"title": "Lunch",
+"description": null,
+
+"title": "Senior Mindset",
+"description": "<p>Getting that senior title is easy. Just stick around. Being a true senior takes a new way of thinking.</p><p><br /></p><p>You're a great engineer. You can code anything you need, solve every problem, google any solution. Your code is flying.</p><p><br /></p><p>But somehow you're ... stuck. Interviewing feels rough, you pass the coding and fail the real stuff. Culture and system. At work they keep giving you stupid little problems with no growth. You crave challenge and keep tweaking CSS instead.</p><p><br /></p><p>You want some responsibility, damn it! What's that coworker got that you don't?</p><p><br /></p><p>Most of all you crave autonomy. The freedom to tackle big challenges and help the company with your brilliance.</p><p><br /></p><p>They don't even see all the bad code you see! How can they live like this?? Instead of autonomy, you're getting babysat. Managers asking what you're up to, daily standups that feel like a drag, pushback and 'maybe someday' on every idea that you give.</p><p><br /></p><p>I was like that a few years ago. A totally senior engineer who keeps running into walls and getting stuck.</p><p><br /></p><p>Now even bigger companies trust me with designing systems and leading teams on projects that could make or break the company.</p><p><br /></p><p>In this workshop you'll learn what changed and how to apply the Senior Mindset to your work and career:</p><p>- How to gain autonomy</p><p>- Inspire trust</p><p>- Own large projects</p><p>- Get freedom to experiment</p><p>- Have your ideas heard</p><p>- Think like an expert</p><p>- Become a decision-making peer, not a pair of hands</p><p><br /></p><p>You'll work on case studies, analyze anecdotes, discuss insightful books, and look at your work and career in a new light.</p>\n",
+"name": "Swizec Teller",
+"bio": "Swizec is a software engineer, author, and conference speaker. He's published books on modern web technologies, data visualization, and productivity, and has trained engineering teams at companies big and small. He’s on a mission to distill 20 years of tacit experience into actionable steps.",
+
+"title": "Break",
+"description": null,
+
+"title": "Improve Your Tech CV",
+"description": "<p>This workshop is designed to help technology professionals elevate their resumes, led by Alla Pavlova, a senior freelance recruiter from the Netherlands with 15+ years of experience in the tech industry. In this interactive session, Alla shares tips on how recruiters review CVs, her knowledge on what top companies are looking for in candidates, offering personalized feedback to refine and enhance your CV for maximum impact.</p><p>Participants will learn how to effectively showcase their skills, experiences, and achievements and make their applications stand out in the competitive tech job market. The workshop includes practical exercises, real-life examples, and Q&amp;A sessions, providing attendees with the tools and confidence to make their tech CVs shine. Whether you’re seeking to advance in your current role or looking for new opportunities, this workshop is a good source. Bring your CV!</p>\n",
+"name": "Alla Pavlova",
+"bio": "Tech Recruiter & Sourcing Trainer. Speaker and community builder, gamer. Currently scaling engineering and art teams at Riot Games.",
+
+"title": "Your First Steps in Electronic Music Production as a Developer",
+"description": "<p>Are you curious about the world of electronic music but not sure where to start? and did you know your coding skills can translate to music-making? This workshop will help you discover the basics in a comfortable way, and see how your coding mindset can help you understand music production. We'll build on your developer logic, break down the basics, and help you get hands-on with creating cool sounds.</p>\n",
+"name": "biskuwi",
+"bio": "Meet Alice, also known as \"biskuwi,\" a software engineer in past and now an electronic music producer and DJ hailing from Stockholm, Sweden. With a rich musical history spanning over 25 years, Alice's journey into the world of music began at the tender age of 7.\n\nOver the years, she has graced the stages of prestigious festivals and clubs, including Germany's second-largest electronic music festival, SonneMond Sterne, as well as venues like Harry Klein, Ritter Butzke, and Södra Teatern, among others.\n\nHer music has garnered support from some of the industry's most prominent DJs, including Solomun, Mathame, Kevin de Vries, Yotto, Lane8, Fideles, Binaryh, Matchy, 8Kays, Richie Hawtin, Moonwalk, Undercatt and many others. Additionally, her latest track, 'Termination,' reached No. 1 on the Beatport Melodic Techno Top 100 songs chart, showcasing her enduring influence and popularity.\n\nAlice's music has also made its mark on various Spotify Editorial playlists, including Techno Bunker, Electronic Circus, Beats to Think To, Low Key Tech, Open Air, Beats of Tomorrow and Tunnel Vision solidifying her status as a trailblazing artist in the electronic music scene. Notably, she has graced the cover of the renowned \"Electronic Rising\" playlist four times further cementing her reputation as an artist on the rise.",
+
+"title": "Lunch",
+"description": null,
+
+"title": "Live Coding 101 (Music & Visuals)",
+"description": "<p>Join this crash-course into the exciting world of live coding music and visuals. No previous knowl- edge of programming required, only a desire to express yourself creatively! In this workshop, split into 2 parts, you will be introduced to two creative-coding environments used for creating expres- sive algorithmic music and visuals on-the-fly. For this we will use the programming environments Mercury and Hydra. You’ll learn to program the instructions that the computer will translate to beats and visuals. You can change the code while it’s running and hear/see the changes in real time. Welcome to the world of Live Coding! The workshops are led by Saskia Freeke (visuals) and Timo Hoogland (music).</p>\n",
+"name": "Saskia Freeke",
+"bio": "Saskia is an artist, creative coder, interaction designer, visual designer and educator. My work focuses on structure, geometry and playfulness. A big part of her artistic practice is her ongoing daily art project that I started January 2015. Saskia explores and experiments with generative patterns and animations daily. You can follow her daily art on Tumblr, Ello, Twitter or Instagram.\n\nSaskia creates both digital and physical works. From her daily digital artworks Saskia explores ways to make work physical with the use of digital fabrication. You can think of laser cut structures from wood, laser cut paper and printed designs.\n\nBesides these graphical artworks, Saskia is interested in creating novel, tangible interfaces. Her research focuses on the cultural aspect of the interface, on the space between the human and the machine. Saskia is interested in exploring the affect of what certain interactions and interfaces have, both on the human and the machine. The goal is to create interactive installations that engage the user in playful ways to let them explore the machine and see the technology we are using daily in a different way.\n\nSaskia Freeke has been a lecturer in Physical Computing at Goldsmiths, University of London and taught in visual design and supervised student projects at the University of the Arts Utrecht School for Games and Interaction.\n\nAt the moment she works on her own artistic practise and as a freelance interaction, visual designer and educator. Saskia is working on digital an physical projects, web and/or print, visual and interaction design, brand design, interactive product design, playful interactions. As well as organising events, giving workshops and talks in creative coding and interactive design.",
+"name": "Timo Hoogland",
+"bio": "Livecoder, music technologist, educator. creative coding for sound, visuals and algorithmic compositions. maxmsp, jitter, javascript, pd, p5.js, mercury.",
+
+"title": "Break",
+"description": null,
+
+"title": "Live Coding 101 (Music & Visuals)",
+"description": "<p>Join this crash-course into the exciting world of live coding music and visuals. No previous knowl- edge of programming required, only a desire to express yourself creatively! In this workshop, split into 2 parts, you will be introduced to two creative-coding environments used for creating expres- sive algorithmic music and visuals on-the-fly. For this we will use the programming environments Mercury and Hydra. You’ll learn to program the instructions that the computer will translate to beats and visuals. You can change the code while it’s running and hear/see the changes in real time. Welcome to the world of Live Coding! The workshops are led by Saskia Freeke (visuals) and Timo Hoogland (music).</p>\n",
+"name": "Saskia Freeke",
+"bio": "Saskia is an artist, creative coder, interaction designer, visual designer and educator. My work focuses on structure, geometry and playfulness. A big part of her artistic practice is her ongoing daily art project that I started January 2015. Saskia explores and experiments with generative patterns and animations daily. You can follow her daily art on Tumblr, Ello, Twitter or Instagram.\n\nSaskia creates both digital and physical works. From her daily digital artworks Saskia explores ways to make work physical with the use of digital fabrication. You can think of laser cut structures from wood, laser cut paper and printed designs.\n\nBesides these graphical artworks, Saskia is interested in creating novel, tangible interfaces. Her research focuses on the cultural aspect of the interface, on the space between the human and the machine. Saskia is interested in exploring the affect of what certain interactions and interfaces have, both on the human and the machine. The goal is to create interactive installations that engage the user in playful ways to let them explore the machine and see the technology we are using daily in a different way.\n\nSaskia Freeke has been a lecturer in Physical Computing at Goldsmiths, University of London and taught in visual design and supervised student projects at the University of the Arts Utrecht School for Games and Interaction.\n\nAt the moment she works on her own artistic practise and as a freelance interaction, visual designer and educator. Saskia is working on digital an physical projects, web and/or print, visual and interaction design, brand design, interactive product design, playful interactions. As well as organising events, giving workshops and talks in creative coding and interactive design.",
+"name": "Timo Hoogland",
+"bio": "Livecoder, music technologist, educator. creative coding for sound, visuals and algorithmic compositions. maxmsp, jitter, javascript, pd, p5.js, mercury.",
+
+"title": "Leveraging LLMs to Build Intuitive AI Experiences for Web",
+"description": "<p>Today every developer is using LLMs in different forms and shapes, from ChatGPT to code assistants like GitHub CoPilot. Following this, lots of products have introduced embedded AI capabilities, and in this workshop we will make LLMs understandable for web developers. And we'll get into coding your own AI-driven application. No prior experience in working with LLMs or machine learning is needed. Instead, we'll use web technologies such as JavaScript, React which you already know and love while also learning about some new libraries like OpenAI, Transformers.js</p>\n",
+"name": "Roy Derks",
+"bio": "Roy Derks is a developer, author and public speaker from the Netherlands. His mission is to make the world a better place through tech by training and inspiring developers worldwide. Currently he is working with StepZen on a mission to make GraphQL adoption easy and scalable.",
+"name": "Shivay Lamba",
+"bio": "Shivay Lamba is a software developer specializing in DevOps, Machine Learning and Full Stack Development. \n\nHe is an Open Source Enthusiast and has been part of various programs like Google Code In and Google Summer of Code as a Mentor and has also been a MLH Fellow. He is actively involved in community work as well. He is a TensorflowJS SIG member, Mentor in OpenMined and CNCF Service Mesh Community, SODA Foundation and has given talks at various conferences like Github Satellite, Voice Global, Fossasia Tech Summit, TensorflowJS Show & Tell. ",
+
+"title": "Lunch",
+"description": null,
+
+"title": "5 Steps to Developer Better Mental Health",
+"description": "<p>Mental health has taken a back seat in the software engineering industry for years.</p><p>It’s not often prioritised by our employers and unfortunately, we often neglect it ourselves…</p><p>With so many external factors outside of our control, it’s important to focus on what we can control…</p><p>After 24 years in software engineering, improving mental health in our industry is now my primary mission.</p><p>Mental health impact us all in different ways.</p><p>Better mental health starts by understanding what it means to you and then using tools to incrementally improve it.</p><p>This workshop aims to help you on both accounts.</p><p><br /></p><p>We’ll cover:</p><p>Step 1 - Your Thinking</p><p>Step 2 - Your Beliefs</p><p>Step 3 - Your Values</p><p>Step 4 - Your Physical Health</p><p>Step 5 - Your Mental Health</p><p><br /></p><p>There’ll be education and discussion on each of the 5 steps and we’ll use practical exercises to help you build a picture of what mental health means to you and a pathway to move it towards how you’d like it to be.</p>\n",
+"name": "Richard Donovan",
+"bio": "Mindset and Wellbeing Coach to the Software Engineering Industry\nRichard is self-taught and has over 24 years experience working as a Software Engineer, Tech Lead, Engineering Manager and Software Architect. Feeling the need to contribute more than just lines of code to the software engineering industry, Richard trained to become a mindset coach and personal trainer to help software engineers protect their wellbeing and mental health, which is vital for success in our industry.",
+
+"title": "Break",
+"description": null,
+
+"title": "Managers Are From Mars, Devs Are From Venus",
+"description": "<p>A Developer’s Guide to Communicating, Convincing, and Collaborating Effectively With Stakeholders</p><p><br /></p><p>It’s a tale as old as time - collaboration between developers and business stakeholders has long been a challenge, with a lack of clear communication often leaving both sides frustrated. The best developers can deeply understand their business counterparts’ needs, effectively communicate technical strategy without losing the non-technical crowd, and convince the business to make the right decisions. Working at a consultancy, I’ve both failed and succeeded in architecting and “selling” technical visions, learning many lessons along the way.</p><p>Whether you work at a product company, are a consultant/freelancer, or want to venture beyond just being a developer, the ability to convince and clearly communicate with stakeholders can set you apart in the tech industry. This becomes even more important with the rise of GenAI and the increasingly competitive developer market, as problem-solving and effective communication are key to positioning yourself.</p><p>In this workshop, I’ll share real-world examples, both good and bad, and guide you through putting the theory into practice through dojos.</p>\n",
+"name": "Mo Khazali",
+"bio": "Mo is the Head of Mobile and a Tech Lead at Theodo UK, having worked on several projects with startups and established enterprises to create cross-platform mobile application in React Native. He's passionate about React Native, MobileDevOps, and pushing the boundaries of combining code across web and mobile. \n\nBefore joining Theodo, Mo was a full-stack developer at Nasdaq. He is a graduate from the University of Edinburgh.",
+
+"title": "From Senior to Lead: Grow and Thrive in the Role",
+"description": "<p>This workshop primarily targets Senior Software Engineers who wish to grow to the Lead role (Tech Lead (Staff), Team Lead, Engineering Manager)</p><p>I would be happy to welcome ambitious Software Engineers as well</p><p>I would be happy to welcome Lead Engineers who wish to thrive in the role</p><p> </p><p>Some key topics we will go through:</p><p>How to let your manager know about your goals and aspirations</p><p>How to keep a brag list of all the wins that you achieved</p><p>How to become the go-to person or an expert in a certain domain</p><p>How to recognise an impactful improvement and own the implementation</p><p>How to become product-minded</p><p>How to show yourself as a very credible individual</p><p>How to become a team player and a mentor/coach to others</p>\n",
+"name": "Gregor Ojstersek",
+"bio": "Gregor is a CTO at Zorion and the Author of Engineering Leadership newsletter.\nHe has a passion for solving complicated problems with innovative concepts.\nLoves learning about new technologies, sharing knowledge and teaching others.\nWith over 100k followers across different social platforms, he is helping a lot of people to become great engineering leaders.",
+
+"title": "Lunch",
+"description": null,
+
+"title": "Coding in the Zone",
+"description": "<p>How do you get into the zone while coding? Why does taking a walk or taking a shower seem to help solve problems? Everything we do is regulated by complex processes in the brain, and coding is no exception. Sometimes it can feel difficult to control our minds when coding, but to debug the problem we’ll first need to understand it. This talk will dive into the basic neurological processes and psychological behaviors involved with learning and writing code. By understanding the physiological processes involved in the work we do, we can be more in touch with our bodies and more productive as a result.</p>\n",
+"name": "Jenny Truong",
+"bio": "As the Head of Operations and Developer Relations at Stately.ai, Jenny also dedicates her time to co-organizing Orlando JS meetups. Based in the heart of Orlando, Florida, Jenny is a passionate advocate for her community, imparting valuable insights on mental awareness, state machines, and various collaborative tools. When she's not engaging with users or gracing the stage, you can spot Jenny at your favorite local donut shop, savoring the simple joys of life!",
+
+"title": "Break",
+"description": null,
+
+"title": "Panel Discussion: JS Frameworks",
+"description": null,
+"name": "Tobias Koppers",
+"bio": "Creator of Webpack and Turbopack. Father of two children. Likes to play board games.",
+"name": "Minko Gechev",
+"bio": "Minko the product lead for Angular at Google. Previously, he was a technical co-founder and the CTO of Rhyme.com, which in 2019 joined Coursera.",
+"name": "Ryan Carniato",
+"bio": "As a JavaScript performance enthusiast, and fine-grained reactivity super-fan, Ryan is obsessively passionate about the future of JavaScript frameworks. He is the creator of SolidJS, and a maintainer of Marko.",
+
+"title": "Speed Networking / Pub Quiz",
+"description": "<p>Location: LowLander</p>\n",
+
+"title": "Game Tournament",
+"description": "<p>Location: LowLander</p>\n",
+
+"title": "Party in the Kromhouthal",
+"description": null,
+
+"title": "Lounge at Lowlander",
+"description": "<p>Location: Lowlander. Lineup: The Darling</p>\n",
+
+"title": "Registration",
+"description": null,
+
+"title": "Smartphone Orchestra Perfomance",
+"description": null,
+
+"title": "Opening Ceremony",
+"description": null,
+
+"title": "What AI Can, Can’t, and Shouldn’t Do for Games",
+"description": null,
+"name": "John Romero",
+"bio": "John Romero is an award-winning programmer, game designer and level designer whose work spans over 130 games, 108 of which have been published commercially. Romero is considered to be the \"father of first person shooters\" having led the design and contributed to the programming and audio design of the iconic and genre-defining games Wolfenstein 3D, DOOM, Quake, Heretic and Hexen. Romero is also was also one of the earliest supporters of eSports and a professional-level DOOM and Quake player. To date, Romero has co-founded eight successful game companies including the likes of id Software and most recently Romero Games in Galway, Ireland. He is considered to be among the world’s top game designers, and his products have won well over 100 awards. Romero most recently won the Legend Award at 2017’s Develop: Brighton. He is a completely self-taught programmer, designer and artist, having drawn his inspirations from early Apple II programmers.",
+
+"title": "QnA with John Romero",
+"description": null,
+"name": "John Romero",
+"bio": "John Romero is an award-winning programmer, game designer and level designer whose work spans over 130 games, 108 of which have been published commercially. Romero is considered to be the \"father of first person shooters\" having led the design and contributed to the programming and audio design of the iconic and genre-defining games Wolfenstein 3D, DOOM, Quake, Heretic and Hexen. Romero is also was also one of the earliest supporters of eSports and a professional-level DOOM and Quake player. To date, Romero has co-founded eight successful game companies including the likes of id Software and most recently Romero Games in Galway, Ireland. He is considered to be among the world’s top game designers, and his products have won well over 100 awards. Romero most recently won the Legend Award at 2017’s Develop: Brighton. He is a completely self-taught programmer, designer and artist, having drawn his inspirations from early Apple II programmers.",
+
+"title": "Less Cruft, More Power: Leverage the Power of the Web Platform",
+"description": null,
+"name": "Una Kravets",
+"bio": "I lead the UI & Tooling Developer Relations Team at Google Chrome. Our team focuses on making the web platform easier to use and more robust for developers, primarily through CSS, HTML, and DevTools capabilities (with some JavaScript mixed in too). We help design web platform APIs, build samples to identify bugs and demonstrate use cases, research and help prioritize what to add to the platform, and share all the new stuff with you! It’s a pretty meta role, and I love getting to play a small part in supporting the evolving web ecosystem. I’m also a member of the CSS Working Group and OpenUI Community Group.",
+
+"title": "QnA with Una Kravets",
+"description": null,
+"name": "Una Kravets",
+"bio": "I lead the UI & Tooling Developer Relations Team at Google Chrome. Our team focuses on making the web platform easier to use and more robust for developers, primarily through CSS, HTML, and DevTools capabilities (with some JavaScript mixed in too). We help design web platform APIs, build samples to identify bugs and demonstrate use cases, research and help prioritize what to add to the platform, and share all the new stuff with you! It’s a pretty meta role, and I love getting to play a small part in supporting the evolving web ecosystem. I’m also a member of the CSS Working Group and OpenUI Community Group.",
+
+"title": "Why Open Source Always Wins",
+"description": null,
+"name": " Dirk-Willem van Gulik",
+"bio": "Dirk-Willem van Gulik is one of the internet engineers behind the world wide web and of the founding fathers of the apache web server. He was the President of the Apache Software Foundation during its first 10 years. He has worked for the Joint Research Centre of the European Commission, the United Nations, telecommunications firms, several satellite & space agencies and founded several startups. He participated in different international standards bodies, such as the IETF and W3C on metadata, GIS, PKI, Security, Architecture and Internet standard since the early days. He build the initial engineering team at the very first ‘webserver’ startup: Covalent, helped make big-data and the semantic web reality at Asemantics and created the first first instant play P2P viewer at joost.com. He was the Chief Technical Architect at the BBC where he shaped the audience facing development-delivery platform Forge in the time for the 2020 Olympics and where he made information security and compliance a core enabler for business processes. He provides technical due diligence to investors and assists companies with their technology; taking an (interim) CTO role where needed. He currently works on several medical and privacy intensive security projects with a heavy emphasis on Architecture and Governance. During the Corona crisis he assisted the Ministry of Health of the Netherlands, the EU and the UN with the `CoronaMelder'; where opensource, cryptography and security-by-design helped build trust. And, more recently has spend waay to much time in Brussels on the Cyber Resilience Act (CRA) and the Product Liability Directive (PLD) as Europe brings in significant regulation of IT and Open Source. When not at work, he loves to sail or hang out with the lovely people at his local https://makerspaceLeiden.nl.",
+
+"title": "QnA with  Dirk-Willem van Gulik",
+"description": null,
+"name": " Dirk-Willem van Gulik",
+"bio": "Dirk-Willem van Gulik is one of the internet engineers behind the world wide web and of the founding fathers of the apache web server. He was the President of the Apache Software Foundation during its first 10 years. He has worked for the Joint Research Centre of the European Commission, the United Nations, telecommunications firms, several satellite & space agencies and founded several startups. He participated in different international standards bodies, such as the IETF and W3C on metadata, GIS, PKI, Security, Architecture and Internet standard since the early days. He build the initial engineering team at the very first ‘webserver’ startup: Covalent, helped make big-data and the semantic web reality at Asemantics and created the first first instant play P2P viewer at joost.com. He was the Chief Technical Architect at the BBC where he shaped the audience facing development-delivery platform Forge in the time for the 2020 Olympics and where he made information security and compliance a core enabler for business processes. He provides technical due diligence to investors and assists companies with their technology; taking an (interim) CTO role where needed. He currently works on several medical and privacy intensive security projects with a heavy emphasis on Architecture and Governance. During the Corona crisis he assisted the Ministry of Health of the Netherlands, the EU and the UN with the `CoronaMelder'; where opensource, cryptography and security-by-design helped build trust. And, more recently has spend waay to much time in Brussels on the Cyber Resilience Act (CRA) and the Product Liability Directive (PLD) as Europe brings in significant regulation of IT and Open Source. When not at work, he loves to sail or hang out with the lovely people at his local https://makerspaceLeiden.nl.",
+
+"title": "Coffee Break",
+"description": null,
+
+"title": "AI + UX: Product Design for Intelligent Experiences",
+"description": "<p>The unfolding AI revolution presents us with unique opportunities, challenges and responsibilities for designing our future. Learn how to exercise your critical thinking skills when it comes to integrating AI in your design craft, and how to build a solid ethical mindset around making design decisions in the Age of AI. Guided by Ioana Teleanu, the Lead Product Designer for AI at Miro, we'll explore the main themes that we need to reflect on as designers participating in shaping the future of humanity.</p>\n",
+"name": "Ioana Teleanu",
+"bio": "Ioana Teleanu is an experienced design leader specializing in AI-powered products. Currently, she is the Lead Product Designer for AI at Miro. Previously, she worked at UiPath on a product called Clipboard AI, which was granted Time Magazine's 'Best Invention of 2023' award. Before that, she contributed to multiple products within UiPath and ING Bank and provided consulting and design services for several early-stage startups worldwide.\nShe's the creator and instructor of one of the most successful courses on AI for Designers, in partnership with the Interaction Design Foundation. As a seasoned design educator, she has launched courses with Domestika as well as her own design bootcamp, all while mentoring and sharing her insights as a designer within her community, UX Goodies.\n\nThrough the UX Goodies channels, which together have over 300,000 followers, and her podcast, Honest UX Talks, Ioana strives to deliver value to her audience. She focuses on teaching designers how to prepare for the AI revolution and remain competitive in a rapidly changing landscape.",
+
+"title": "QnA with Ioana Teleanu",
+"description": null,
+"name": "Ioana Teleanu",
+"bio": "Ioana Teleanu is an experienced design leader specializing in AI-powered products. Currently, she is the Lead Product Designer for AI at Miro. Previously, she worked at UiPath on a product called Clipboard AI, which was granted Time Magazine's 'Best Invention of 2023' award. Before that, she contributed to multiple products within UiPath and ING Bank and provided consulting and design services for several early-stage startups worldwide.\nShe's the creator and instructor of one of the most successful courses on AI for Designers, in partnership with the Interaction Design Foundation. As a seasoned design educator, she has launched courses with Domestika as well as her own design bootcamp, all while mentoring and sharing her insights as a designer within her community, UX Goodies.\n\nThrough the UX Goodies channels, which together have over 300,000 followers, and her podcast, Honest UX Talks, Ioana strives to deliver value to her audience. She focuses on teaching designers how to prepare for the AI revolution and remain competitive in a rapidly changing landscape.",
+
+"title": "Tactics and Strategies on Software Development: How to Reach a Successful Software",
+"description": "<p>Being pragmatic and understanding the tasks are crucial for effectively achieving your activity as a software developer. Unfortunately more is needed to acquire successful software. At this point, you need to go beyond and understand the strategy and tactics of the software engineer.</p><p>Good software is closer to business and needs to be ready to change often. Rewriting the whole system from scratch becomes a real temptation. New shiny solutions like microservices pretend to solve this problem using new technology. But is there any guarantee that this feeling won't come up again after some time?</p><p>It does not matter if it is a micro, nano, or even atomic service; no new buzzword or trend can help us with this problem.</p><p>So here's the answer you've been looking for: you must explore multiple tactics and strategies in software engineering practices, such as documentation, testing, domain-driven design, persistence, cloud adoption, and the different design and architecture styles.</p><p>This interaction will cover the ultimate guide to making the best use of architecture and design to guarantee a better, maintainable, and evolutionary solution. You'll also learn how to avoid complex systems and fight against legacy to achieve the desired innovation with stability.</p>\n",
+"name": "Otavio Santana",
+"bio": "Empowering developers worldwide to deliver better software faster, scalable in the Cloud. Otavio is a passionate software engineer focused on Cloud and Java technology. He has experience mainly in persistence polyglot and high-performance applications in finances, social media, and e-commerce. Otavio is a member of both Expert Groups and an Expert Leader in several JSRs and JCP executive committee. He is working on several Apache and Eclipse Foundation projects such as Apache Tamaya, MicroProfile, Jakarta EE, where he is leading the first specification at Jakarta EE with Jakarta NoSQL. A JUG leader and global speaker at JavaOne and Devoxx conferences.  Otavio has received recognition for his OSS contributions such as the JCP Outstanding Award, Member of the year and innovative JSR, Duke’s Choice Award, and Java Champion Award, to name a few.\n",
+
+"title": "QnA with Otavio Santana",
+"description": null,
+"name": "Otavio Santana",
+"bio": "Empowering developers worldwide to deliver better software faster, scalable in the Cloud. Otavio is a passionate software engineer focused on Cloud and Java technology. He has experience mainly in persistence polyglot and high-performance applications in finances, social media, and e-commerce. Otavio is a member of both Expert Groups and an Expert Leader in several JSRs and JCP executive committee. He is working on several Apache and Eclipse Foundation projects such as Apache Tamaya, MicroProfile, Jakarta EE, where he is leading the first specification at Jakarta EE with Jakarta NoSQL. A JUG leader and global speaker at JavaOne and Devoxx conferences.  Otavio has received recognition for his OSS contributions such as the JCP Outstanding Award, Member of the year and innovative JSR, Duke’s Choice Award, and Java Champion Award, to name a few.\n",
+
+"title": "Lunch",
+"description": null,
+
+"title": "How to Turn Engineering Work into a Promotion",
+"description": "<p>You've done your job. You've delivered timely features. You even optimised some processes along the way. Yet you still get turned down for a promotion or a raise. In this practical talk, Engineering Director and tech career specialist Anna McDougall delivers direct, immediately actionable steps for what you can do in the next few weeks, months, and years to secure promotions and raises. From the tasks you choose to how you document and 'sell' them, she will give you the toolkit you need for your career goals.</p>\n",
+"name": "Anna J McDougall",
+"bio": "Anna McDougall grew up in Sydney, Australia, and moved to Germany in 2015 to pursue a career as an opera singer. At 32, she rediscovered her love for code and technology and made the switch to software engineering. She quickly discovered her mix of technical and social skills made her perfect for technical leadership, and she now works as Director, Product and Engineering (Projects and Organisation) for the tech subsidiary of Europe's largest media publisher, Axel Springer National Media & Tech, based in Berlin, Germany. Anna has helped hundreds of career changers pursue new careers in tech, with her book \"You Belong in Tech: How to Go from Zero Programming Knowledge to Hired\" quickly hitting #1 on Amazon for Career Guide New Releases in July 2022. In 2023, she delivered her TEDx Talk for the Technical University of Berlin, titled \"Finding and Proving Your Value as a Career Changer\".",
+
+"title": "QnA with Anna J McDougall",
+"description": null,
+"name": "Anna J McDougall",
+"bio": "Anna McDougall grew up in Sydney, Australia, and moved to Germany in 2015 to pursue a career as an opera singer. At 32, she rediscovered her love for code and technology and made the switch to software engineering. She quickly discovered her mix of technical and social skills made her perfect for technical leadership, and she now works as Director, Product and Engineering (Projects and Organisation) for the tech subsidiary of Europe's largest media publisher, Axel Springer National Media & Tech, based in Berlin, Germany. Anna has helped hundreds of career changers pursue new careers in tech, with her book \"You Belong in Tech: How to Go from Zero Programming Knowledge to Hired\" quickly hitting #1 on Amazon for Career Guide New Releases in July 2022. In 2023, she delivered her TEDx Talk for the Technical University of Berlin, titled \"Finding and Proving Your Value as a Career Changer\".",
+
+"title": "Adapting to the Future of Work in Tech",
+"description": "<p>Anyone who worked in tech, for any amount of time, knows that the landscape is in constant motion. The technologies of today are obsolete tomorrow. The tools of the trade are in constant motion, and continuous upskilling is the bread and butter of all software engineers who survive the passing waves. The software engineers of the future are those who mastered 1 skill: adaptation. In this talk, I will address the evolution of our craft, and my predictions for the core competencies of the future.</p>\n",
+"name": "Bassem Dghaidi",
+"bio": "Bassem Dghaidi enjoys solving hard problems in internet scale distributed systems and takes pride in abolishing organisational inefficiencies and adopting a cross-disciplined approach to problem solving.\nBassem is a Senior Software Engineer at GitHub, where he is currently focused on building the next generation of GitHub Actions. With a career spanning over 15 years, Bassem worked across various industries, including TechEd, car manufacturing, FinTech, transportation and logistics.\nIn a previous role, Bassem worked closely with some of the largest corporate customers and Fortune 500 companies as a trusted advisor. He helped these enterprises optimise their software development lifecycle and adopt DevOps best practices.\nApart from his work at GitHub, Bassem is passionate about empowering the next generation of technologists. He was a founding member of SE Factory, a technical career accelerator that has become Lebanon’s leading training program for aspiring software engineers.\nBassem is also an active podcaster and content creator sharing his technical and career-related insights on major social media platforms.",
+
+"title": "QnA with Bassem Dghaidi",
+"description": null,
+"name": "Bassem Dghaidi",
+"bio": "Bassem Dghaidi enjoys solving hard problems in internet scale distributed systems and takes pride in abolishing organisational inefficiencies and adopting a cross-disciplined approach to problem solving.\nBassem is a Senior Software Engineer at GitHub, where he is currently focused on building the next generation of GitHub Actions. With a career spanning over 15 years, Bassem worked across various industries, including TechEd, car manufacturing, FinTech, transportation and logistics.\nIn a previous role, Bassem worked closely with some of the largest corporate customers and Fortune 500 companies as a trusted advisor. He helped these enterprises optimise their software development lifecycle and adopt DevOps best practices.\nApart from his work at GitHub, Bassem is passionate about empowering the next generation of technologists. He was a founding member of SE Factory, a technical career accelerator that has become Lebanon’s leading training program for aspiring software engineers.\nBassem is also an active podcaster and content creator sharing his technical and career-related insights on major social media platforms.",
+
+"title": "Tech Leadership Is More About People Than Tech",
+"description": "<p>The role of a Tech Lead is more about leading than tech. Tech is a part of it, but people are the rest. </p><p>In my talk, \"Tech Leadership is more about people than tech\" I'll explain why people skills are crucial in tech leadership. We'll dive into the essential skills every tech leader needs: listening, empathy, and effective feedback.</p><p>But more than just knowing these skills, you'll learn how to develop them. I’ll share some practical, day-to-day strategies that can help you improve your people skills over time. </p><p>This session is ideal for anyone aiming to not only manage but truly lead by focusing on the human element in tech.</p>\n",
+"name": "Anemari Fiser",
+"bio": "Anemari Fiser is a seasoned Engineering Leader and Certified Career Coach, recognized as a LinkedIn Top Voice and the Spain Country Director at Global Women Tech Leaders. With a decade of diverse roles in the tech industry, from Software Engineer to Product Director, she is now a solopreneur utilising her technical and leadership expertise to help others level up their tech careers. In the past 3 years, Anemari has helped over 500 people launch and advance to leadership positions and trained over 150 Tech Leads in building high-performing teams. Her influence extends to a 20,000+ strong tech professional community on LinkedIn and 3,000+ readers of her bi-weekly newsletter, “Level up as a Tech Lead”.",
+
+"title": "QnA with Anemari Fiser",
+"description": null,
+"name": "Anemari Fiser",
+"bio": "Anemari Fiser is a seasoned Engineering Leader and Certified Career Coach, recognized as a LinkedIn Top Voice and the Spain Country Director at Global Women Tech Leaders. With a decade of diverse roles in the tech industry, from Software Engineer to Product Director, she is now a solopreneur utilising her technical and leadership expertise to help others level up their tech careers. In the past 3 years, Anemari has helped over 500 people launch and advance to leadership positions and trained over 150 Tech Leads in building high-performing teams. Her influence extends to a 20,000+ strong tech professional community on LinkedIn and 3,000+ readers of her bi-weekly newsletter, “Level up as a Tech Lead”.",
+
+"title": "Coffee Break",
+"description": null,
+
+"title": "Mindset: You vs Your AI",
+"description": "<p>We all have our very own wellbeing processor.</p><p>It influences how you feel and act. It leads to every outcome you’ve ever had or will have…</p><p>For most of us, our wellbeing processor is primarily fed by our very own AI.</p><p>Unfortunately, our AI often seems to work against us.</p><p>In this talk, you’ll learn how to take back control and train your AI to work with you to promotes a growth mindset and optimise wellbeing.</p>\n",
+"name": "Richard Donovan",
+"bio": "Mindset and Wellbeing Coach to the Software Engineering Industry\nRichard is self-taught and has over 24 years experience working as a Software Engineer, Tech Lead, Engineering Manager and Software Architect. Feeling the need to contribute more than just lines of code to the software engineering industry, Richard trained to become a mindset coach and personal trainer to help software engineers protect their wellbeing and mental health, which is vital for success in our industry.",
+
+"title": "QnA with Richard Donovan",
+"description": null,
+"name": "Richard Donovan",
+"bio": "Mindset and Wellbeing Coach to the Software Engineering Industry\nRichard is self-taught and has over 24 years experience working as a Software Engineer, Tech Lead, Engineering Manager and Software Architect. Feeling the need to contribute more than just lines of code to the software engineering industry, Richard trained to become a mindset coach and personal trainer to help software engineers protect their wellbeing and mental health, which is vital for success in our industry.",
+
+"title": "Conducting Interviews and Interviewing in the Age of AI Tools",
+"description": null,
+"name": " Lindsey Simon",
+"bio": "Lindsey Simon is the VP of Engineering at Vercel. Making the Web faster has been his lifelong career ambition. Prior to Vercel, Lindsey spent seven years at Google, where he helped launch App Engine as an original core team member, and worked as a tech lead on the Google Translate and Web Performance teams. Lindsey has lived in San Francisco for the past 15 years, and his creative hobbies (beyond coding) include writing music and hunting for wild mushrooms.",
+
+"title": "QnA with  Lindsey Simon",
+"description": null,
+"name": " Lindsey Simon",
+"bio": "Lindsey Simon is the VP of Engineering at Vercel. Making the Web faster has been his lifelong career ambition. Prior to Vercel, Lindsey spent seven years at Google, where he helped launch App Engine as an original core team member, and worked as a tech lead on the Google Translate and Web Performance teams. Lindsey has lived in San Francisco for the past 15 years, and his creative hobbies (beyond coding) include writing music and hunting for wild mushrooms.",
+
+"title": "Scaling Fast – Engineering Lessons From ~15 Years of Tech Startups",
+"description": "<p>Building a business is a slugfest to see who gets more customers first. You have to adopt that mindset when writing code. As an old boss told me once: Clean code won't matter if we're dead. You have to shift your mindset from best practices to getting shit done. But you can't go too wild or the tech debt will kill ya. </p>\n",
+"name": "Swizec Teller",
+"bio": "Swizec is a software engineer, author, and conference speaker. He's published books on modern web technologies, data visualization, and productivity, and has trained engineering teams at companies big and small. He’s on a mission to distill 20 years of tacit experience into actionable steps.",
+
+"title": "QnA with Swizec Teller",
+"description": null,
+"name": "Swizec Teller",
+"bio": "Swizec is a software engineer, author, and conference speaker. He's published books on modern web technologies, data visualization, and productivity, and has trained engineering teams at companies big and small. He’s on a mission to distill 20 years of tacit experience into actionable steps.",
+
+"title": "Closing Ceremony",
+"description": null,
+
+"title": "Break before Party",
+"description": null,
+
+"title": "Party: EDM / Creative Coding Stage. Headliner: Rival Consoles",
+"description": "<p>location: the Kromhouthal</p>\n",
+
+"title": "Party: Dance / House Stage. Headliner: Adana Twins",
+"description": "<p>location: Noordwaards; Lineup: Adana Twins, Wowa Effect, Biskuwi, Deep Gosh</p>\n",
+
+"title": "Cinema Night in Lowlander",
+"description": null,
+
+"title": "Bring the Power of AI to Your Application",
+"description": null,
+"name": "Krzysztof Cieślak",
+"bio": "Krzysztof is a photographer, globetrotter open-source maintainer, and public speaker. He works as a Senior Research Engineer at GitHub Next, where he designs and builds the next generation of developer tools such as GitHub Copilot. \nAfter the work, Krzysztof is an open-source software maintainer passionate about functional programming (especially F#), editor tooling and developer experience - he has created and maintained several OSS projects varying from language servers to web frameworks to VSCode plugins. \nAdditionally, he is a passionate public speaker. You can meet him at many conferences around the world, where he is always trying to meet new people and learn how to make the lives of software developers better.",
+
+"title": "QnA with Krzysztof Cieślak",
+"description": null,
+"name": "Krzysztof Cieślak",
+"bio": "Krzysztof is a photographer, globetrotter open-source maintainer, and public speaker. He works as a Senior Research Engineer at GitHub Next, where he designs and builds the next generation of developer tools such as GitHub Copilot. \nAfter the work, Krzysztof is an open-source software maintainer passionate about functional programming (especially F#), editor tooling and developer experience - he has created and maintained several OSS projects varying from language servers to web frameworks to VSCode plugins. \nAdditionally, he is a passionate public speaker. You can meet him at many conferences around the world, where he is always trying to meet new people and learn how to make the lives of software developers better.",
+
+"title": "The Force of Engineering: Bringing Your Own Star Wars Sidekick to Life",
+"description": "<p>In Star Wars, Pit Droids are repair droids designed to maintain racing vehicles \"podracers\". These droids are 1.2 meters in height and can fold when not in use. Their funny behavior is explained in a way that they were programmed with a sense of urgency but without enough processing power to perform some complex tasks.</p><p>I will show you how I built a realistic Pit Droid and empowered it with NVIDIA Jetson Orin Nano. The droid can perform AI object detection, move its head toward the objects, and more. You will also see some other droid projects I worked on.</p><p>NVIDIA Developer post: https://blogs.nvidia.com/blog/2023/08/03/goran-vuksic-pit-droid/</p><p>Hackster project: https://www.hackster.io/gvuksic/nvidia-jetson-orin-nano-powered-pit-droid-7da0e8</p><p>Through this session, you will:</p><p>- hear how this robot was assembled,</p><p>- learn about Azure AI Studio &amp; Azure Custom Vision</p><p>- learn how to easily prepare and tag images for model training,</p><p>- see how to train a model for object detection,</p><p>- analyse images from the camera of the robot,</p><p>- control motor and other IoT devices connected to the robot,</p><p>- and much more.</p><p>I hope this session will give you a great introduction to AI and IoT, and inspire you to build similar projects on your own!\"</p>\n",
+"name": "Goran Vuksic",
+"bio": "Goran is the CTO and Co-founder of syntheticAIdata, a startup company dedicated to democratising the vision AI market by providing affordable and accessible synthetic data.\n\nWith over 20 years of work experience in IT and a deep understanding of various technologies, Goran worked as an engineering and technical manager, among other roles, developing IT strategies and solutions for well-known clients.\n\nGoran is a tech enthusiast, he writes technical blog posts and he likes to share his knowledge at conferences, workshops, and meetups. He is recognised as Microsoft AI Most Valuable Professional (AI MVP), and his projects have been highlighted on websites such as Forbes, The Next Web, NVIDIA Developer, TechCrunch, and others.",
+
+"title": "QnA with Goran Vuksic",
+"description": null,
+"name": "Goran Vuksic",
+"bio": "Goran is the CTO and Co-founder of syntheticAIdata, a startup company dedicated to democratising the vision AI market by providing affordable and accessible synthetic data.\n\nWith over 20 years of work experience in IT and a deep understanding of various technologies, Goran worked as an engineering and technical manager, among other roles, developing IT strategies and solutions for well-known clients.\n\nGoran is a tech enthusiast, he writes technical blog posts and he likes to share his knowledge at conferences, workshops, and meetups. He is recognised as Microsoft AI Most Valuable Professional (AI MVP), and his projects have been highlighted on websites such as Forbes, The Next Web, NVIDIA Developer, TechCrunch, and others.",
+
+"title": "Coffee Break",
+"description": null,
+
+"title": "35 Years of WWW: Working as a Content Creator, Designer and Developer With the Coolest Medium Ever",
+"description": "<p>Back in the late 90s, I worked as a radio newscaster and used computers as a hobby. First writing pretty pointless programs, then playing games, being bad at them and analysing the games how to give myself endless lives. Then I got access to the web and everything changed. I knew, this was the medium to support for the rest of my career. Here is a recount of 25 years of professional web development. The technologies that came and went, the struggles to get the resources I need and the wonderful, wild and bonkers things and people I encountered. And you also get an outlook why some products and technologies succeeded and why others failed.</p>\n",
+"name": "Christian Heilmann",
+"bio": "Chris is a highly skilled Front End Architect, Manager and Team Lead with over 25 years of experience in web technologies. He has a passion for breaking down complex technical concepts and presenting them in an understandable format to various audiences. He is excited about the potential of Machine Learning/AI in the creation and development space, and he works closely with different parts of the company to integrate these technologies into our work. Chris has been working across organisations and locales for over 15 years, leading teams and communicating across departments in the US, UK, China and India.\n\nHe is the author of the Developer Advocacy Handbook, continuously updated since 2006 and the first JavaScript book to cover AJAX. \nHe is a freelance writer for the German IT portal Golem and various online magazines\nHe published videos for Visual Studio Code, helping them reach their 200k follower numbers on YouTube and breaking the 1.4M views barrier on TikTok for one video.",
+
+"title": "QnA with Christian Heilmann",
+"description": null,
+"name": "Christian Heilmann",
+"bio": "Chris is a highly skilled Front End Architect, Manager and Team Lead with over 25 years of experience in web technologies. He has a passion for breaking down complex technical concepts and presenting them in an understandable format to various audiences. He is excited about the potential of Machine Learning/AI in the creation and development space, and he works closely with different parts of the company to integrate these technologies into our work. Chris has been working across organisations and locales for over 15 years, leading teams and communicating across departments in the US, UK, China and India.\n\nHe is the author of the Developer Advocacy Handbook, continuously updated since 2006 and the first JavaScript book to cover AJAX. \nHe is a freelance writer for the German IT portal Golem and various online magazines\nHe published videos for Visual Studio Code, helping them reach their 200k follower numbers on YouTube and breaking the 1.4M views barrier on TikTok for one video.",
+
+"title": "The Art of Influence: Empowering Developers' Team Collaboration",
+"description": "<p>In the field of software development, collaboration is key. Yet, many developers find themselves working in teams without ever being taught how to effectively express their opinions and ethically influence their colleagues to align with their vision and goals.</p><p>In this practical and enlightening session, we delve into the science of influence. By understanding the psychology of why people say yes and how to apply these insights ethically in business, we explore the psychological triggers that drive human behavior. Participants will learn how to communicate considerately yet persuasively, inspire cooperation, and foster a culture of collaboration within their team.</p><p>Whether you're leading a project, seeking buy-in from stakeholders, or simply aiming to improve team dynamics, mastering the art of influence can lead to smoother workflows, better decision-making, and ultimately, greater success. This session will share proven practical strategies and techniques for harnessing the power of influence to create a more productive and harmonious work environment.</p>\n",
+"name": "Lirone Glikman",
+"bio": "Lirone Glikman is an International Keynote Speaker, thought leader specializing in Networking and Personal Branding, and a Global Business Development Consultant for tech companies. She has been working with developers for over a decade and very passionate about helping others succeed through her methodologies. ",
+
+"title": "The Entanglement of Concerns between People and Software Development",
+"description": "<p>Recently I was asked: “but Rita, aren’t you a Software Developer? Isn’t you job to write code? Why do you keep pondering about people?” My answer was simple - “because it is not up to a person to build quality software. It takes a village”. </p><p>Software Development and People can not be seen as two separate concerns by companies. There is a natural entanglement between the two of them that I would like to explore a bit in this session.</p>\n",
+"name": "Rita Castro",
+"bio": "Software Engineer that used to build stand alone applications for data processing and mission planning systems turned into a Full-Stack Developer working with Test Driven Development, XP and Pair Programming. Also a Mom now. \n",
+
+"title": "The Power of a Second Brain in a Developer's Workflow",
+"description": "<p>In an AI-driven world where information overload is the norm, it's all too easy to rely on ChatGPT or Google Search for quick answers, only to forget them just as quickly. But what if there's a smarter approach that not only helps us retain what we learn but also enhances our workflow and productivity?</p><p><br /></p><p>We will explore why and how constructing a Second Brain can revolutionize the way developers work. By shifting our perspective and relying on our internal knowledge base, we can forge connections that enhance memory retention and improve our overall workflow. This presentation aims to delve into the core of the developer workflow, addressing commonly shared questions that are typically googled or answered using ChatGPT. Instead, we will focus on how adopting the habit of turning to our Second Brain can yield better results by providing answers in the context of our previous learning.</p>\n",
+"name": "Braydon Coyer",
+"bio": "Braydon Coyer is a Senior Frontend Engineer at LogicGate where he helps build a GRC automated platform. He is a creative developer, a blogger and a designer. His mission is to translate user-focussed designs into pixel-perfect websites or applications that run blazing fast. He lives in Texas with his wife and two daughters.",
+
+"title": "Lunch",
+"description": null,
+
+"title": "Intentional Code - Where Patterns End and Design Begins",
+"description": "<p>In this session we talk about all the things in your software that aren't about design patterns. The moment to moment importance of flow, form and structure, building beautiful APIs and why every single character matters.</p>\n",
+"name": "David Whitney",
+"bio": "David is the founder of Electric Head Software, working as an independent software consultant based in London focusing on iterative software delivery, developer mentoring and cultural change - mostly working with London-based organisations and start-ups. David has previously served as the chief coding technical architect for JustGiving, and helped market-leading organisations including JUST-EAT, Trainline and Vodafone improve their technical capabilities.",
+
+"title": "QnA with David Whitney",
+"description": null,
+"name": "David Whitney",
+"bio": "David is the founder of Electric Head Software, working as an independent software consultant based in London focusing on iterative software delivery, developer mentoring and cultural change - mostly working with London-based organisations and start-ups. David has previously served as the chief coding technical architect for JustGiving, and helped market-leading organisations including JUST-EAT, Trainline and Vodafone improve their technical capabilities.",
+
+"title": "Who’s Faster at Building an Energy Generation Data Visualisation Platform: ChatGPT or a Developer?",
+"description": "<p>Gear up for a speed competition, it's ChatGPT versus yours truly, racing to build a data visualisation platform from scratch at top speed. Who will win? We’ll be taking on the challenge of reconstructing an energy generation visualisation platform, drawing inspiration from the likes of GridWatch and the Energy Dashboard.</p>\n",
+"name": "Chloe Caron",
+"bio": "Chloé is a Tech Lead, Data Engineer and Full-stack Developer at Theodo UK. Having worked on several projects, Chloé has continuously expanded her experience by working with both startups and well-established companies. With a keen curiosity for exploration, Chloé frequently embarks on exploratory journeys into innovative data topics, journeys that she often shares through Twitter. ",
+
+"title": "QnA with Chloe Caron",
+"description": null,
+"name": "Chloe Caron",
+"bio": "Chloé is a Tech Lead, Data Engineer and Full-stack Developer at Theodo UK. Having worked on several projects, Chloé has continuously expanded her experience by working with both startups and well-established companies. With a keen curiosity for exploration, Chloé frequently embarks on exploratory journeys into innovative data topics, journeys that she often shares through Twitter. ",
+
+"title": "From Nebula to Supernova: Design System Maturity Models",
+"description": "<p>Design systems are inevitable! They play a pivotal role in web development, enabling teams to achieve consistency, scalability, and efficiency.</p><p>Join us for an insightful and entertaining talk that dives into the world of design systems and their evolution within tech organizations. In this session, we'll explore and try to validate a design systems maturity model, offering practical guidance at different stages of growth. We'll share lessons learned and expert advice on how to adapt your approach to fit your needs.</p><p><br /></p><p>Why does this matter? Implementing and maturing a design system can be complex as organizations evolve. By understanding the different maturity levels, you'll be empowered to make informed decisions.</p>\n",
+"name": "Joran Quinten",
+"bio": "Jorans passion involves getting people to love technology and getting technology to play nice. He works as an interaction developer with ♡ for web, tech, science & tinkering with stuff. Focussed on innovation at Jumbo Supermarkten. Published author, tweets and speaks every now and then.",
+
+"title": "QnA with Joran Quinten",
+"description": null,
+"name": "Joran Quinten",
+"bio": "Jorans passion involves getting people to love technology and getting technology to play nice. He works as an interaction developer with ♡ for web, tech, science & tinkering with stuff. Focussed on innovation at Jumbo Supermarkten. Published author, tweets and speaks every now and then.",
+
+"title": "Coffee Break",
+"description": null,
+
+"title": "Powering Cody Coding Assistant Using LLMs",
+"description": null,
+"name": "Rishabh Mehrotra",
+"bio": "Rishabh is a machine learning scientist working on ML techniques for recommendations in online marketplaces. He works on multi-objective decisioning, recommendations, marketplaces, personalization and experimentation. He has led various ML projects from basic research to production, with >10 product launches for 350+ million users.",
+
+"title": "QnA with Rishabh Mehrotra",
+"description": null,
+"name": "Rishabh Mehrotra",
+"bio": "Rishabh is a machine learning scientist working on ML techniques for recommendations in online marketplaces. He works on multi-objective decisioning, recommendations, marketplaces, personalization and experimentation. He has led various ML projects from basic research to production, with >10 product launches for 350+ million users.",
+
+"title": "Pixels, Promises, and Panic: Horror Stories of Production Nightmares",
+"description": "<p>Join me for \"Pixels, Promises, and Panic\" as we delve into the world of frontend mishaps. We'll share 4-5 real-life horror stories from the trenches of web development. From baffling browser bugs to cringe-worthy code catastrophes, these tales are a mix of humor and caution. Whether you're a seasoned developer or just starting out, these stories will entertain, enlighten, and remind us all of the unexpected twists and turns in the world of coding.</p>\n",
+"name": "Neciu Dan",
+"bio": "Neciu Dan is the technical co-founder and tech lead of CareerOS, where he spearheads the development, maintenance, and scaling of the main application. Bringing over 12 years of engineering expertise to the table, Dan has a proven track record in the tech industry, having previously served as a Senior Product Engineer at the New York E-commerce brand, AdoreMe, and as a Senior Software Engineer at the food delivery company, Glovo. ",
+
+"title": "QnA with Neciu Dan",
+"description": null,
+"name": "Neciu Dan",
+"bio": "Neciu Dan is the technical co-founder and tech lead of CareerOS, where he spearheads the development, maintenance, and scaling of the main application. Bringing over 12 years of engineering expertise to the table, Dan has a proven track record in the tech industry, having previously served as a Senior Product Engineer at the New York E-commerce brand, AdoreMe, and as a Senior Software Engineer at the food delivery company, Glovo. ",
+
+"title": "Institute of Expertise",
+"description": null,
+"name": "Rita Castro",
+"bio": "Software Engineer that used to build stand alone applications for data processing and mission planning systems turned into a Full-Stack Developer working with Test Driven Development, XP and Pair Programming. Also a Mom now. \n",
+"name": " Dirk-Willem van Gulik",
+"bio": "Dirk-Willem van Gulik is one of the internet engineers behind the world wide web and of the founding fathers of the apache web server. He was the President of the Apache Software Foundation during its first 10 years. He has worked for the Joint Research Centre of the European Commission, the United Nations, telecommunications firms, several satellite & space agencies and founded several startups. He participated in different international standards bodies, such as the IETF and W3C on metadata, GIS, PKI, Security, Architecture and Internet standard since the early days. He build the initial engineering team at the very first ‘webserver’ startup: Covalent, helped make big-data and the semantic web reality at Asemantics and created the first first instant play P2P viewer at joost.com. He was the Chief Technical Architect at the BBC where he shaped the audience facing development-delivery platform Forge in the time for the 2020 Olympics and where he made information security and compliance a core enabler for business processes. He provides technical due diligence to investors and assists companies with their technology; taking an (interim) CTO role where needed. He currently works on several medical and privacy intensive security projects with a heavy emphasis on Architecture and Governance. During the Corona crisis he assisted the Ministry of Health of the Netherlands, the EU and the UN with the `CoronaMelder'; where opensource, cryptography and security-by-design helped build trust. And, more recently has spend waay to much time in Brussels on the Cyber Resilience Act (CRA) and the Product Liability Directive (PLD) as Europe brings in significant regulation of IT and Open Source. When not at work, he loves to sail or hang out with the lovely people at his local https://makerspaceLeiden.nl.",
+"name": " Lindsey Simon",
+"bio": "Lindsey Simon is the VP of Engineering at Vercel. Making the Web faster has been his lifelong career ambition. Prior to Vercel, Lindsey spent seven years at Google, where he helped launch App Engine as an original core team member, and worked as a tech lead on the Google Translate and Web Performance teams. Lindsey has lived in San Francisco for the past 15 years, and his creative hobbies (beyond coding) include writing music and hunting for wild mushrooms.",
+
+"title": "Where Is Everything Going (Code Prospective)",
+"description": null,
+"name": "Christian Heilmann",
+"bio": "Chris is a highly skilled Front End Architect, Manager and Team Lead with over 25 years of experience in web technologies. He has a passion for breaking down complex technical concepts and presenting them in an understandable format to various audiences. He is excited about the potential of Machine Learning/AI in the creation and development space, and he works closely with different parts of the company to integrate these technologies into our work. Chris has been working across organisations and locales for over 15 years, leading teams and communicating across departments in the US, UK, China and India.\n\nHe is the author of the Developer Advocacy Handbook, continuously updated since 2006 and the first JavaScript book to cover AJAX. \nHe is a freelance writer for the German IT portal Golem and various online magazines\nHe published videos for Visual Studio Code, helping them reach their 200k follower numbers on YouTube and breaking the 1.4M views barrier on TikTok for one video.",
+"name": " Lindsey Simon",
+"bio": "Lindsey Simon is the VP of Engineering at Vercel. Making the Web faster has been his lifelong career ambition. Prior to Vercel, Lindsey spent seven years at Google, where he helped launch App Engine as an original core team member, and worked as a tech lead on the Google Translate and Web Performance teams. Lindsey has lived in San Francisco for the past 15 years, and his creative hobbies (beyond coding) include writing music and hunting for wild mushrooms.",
+
+"title": "AI vs Your Career - Career Growth During This Weird Techscession",
+"description": null,
+"name": "Swizec Teller",
+"bio": "Swizec is a software engineer, author, and conference speaker. He's published books on modern web technologies, data visualization, and productivity, and has trained engineering teams at companies big and small. He’s on a mission to distill 20 years of tacit experience into actionable steps.",
+"name": "Krzysztof Cieślak",
+"bio": "Krzysztof is a photographer, globetrotter open-source maintainer, and public speaker. He works as a Senior Research Engineer at GitHub Next, where he designs and builds the next generation of developer tools such as GitHub Copilot. \nAfter the work, Krzysztof is an open-source software maintainer passionate about functional programming (especially F#), editor tooling and developer experience - he has created and maintained several OSS projects varying from language servers to web frameworks to VSCode plugins. \nAdditionally, he is a passionate public speaker. You can meet him at many conferences around the world, where he is always trying to meet new people and learn how to make the lives of software developers better.",
+"name": "Chloe Caron",
+"bio": "Chloé is a Tech Lead, Data Engineer and Full-stack Developer at Theodo UK. Having worked on several projects, Chloé has continuously expanded her experience by working with both startups and well-established companies. With a keen curiosity for exploration, Chloé frequently embarks on exploratory journeys into innovative data topics, journeys that she often shares through Twitter. ",
+"name": "Braydon Coyer",
+"bio": "Braydon Coyer is a Senior Frontend Engineer at LogicGate where he helps build a GRC automated platform. He is a creative developer, a blogger and a designer. His mission is to translate user-focussed designs into pixel-perfect websites or applications that run blazing fast. He lives in Texas with his wife and two daughters.",
+"name": " Lindsey Simon",
+"bio": "Lindsey Simon is the VP of Engineering at Vercel. Making the Web faster has been his lifelong career ambition. Prior to Vercel, Lindsey spent seven years at Google, where he helped launch App Engine as an original core team member, and worked as a tech lead on the Google Translate and Web Performance teams. Lindsey has lived in San Francisco for the past 15 years, and his creative hobbies (beyond coding) include writing music and hunting for wild mushrooms.",
+
+"title": "Maintaining Professional Growth",
+"description": null,
+"name": "Bassem Dghaidi",
+"bio": "Bassem Dghaidi enjoys solving hard problems in internet scale distributed systems and takes pride in abolishing organisational inefficiencies and adopting a cross-disciplined approach to problem solving.\nBassem is a Senior Software Engineer at GitHub, where he is currently focused on building the next generation of GitHub Actions. With a career spanning over 15 years, Bassem worked across various industries, including TechEd, car manufacturing, FinTech, transportation and logistics.\nIn a previous role, Bassem worked closely with some of the largest corporate customers and Fortune 500 companies as a trusted advisor. He helped these enterprises optimise their software development lifecycle and adopt DevOps best practices.\nApart from his work at GitHub, Bassem is passionate about empowering the next generation of technologists. He was a founding member of SE Factory, a technical career accelerator that has become Lebanon’s leading training program for aspiring software engineers.\nBassem is also an active podcaster and content creator sharing his technical and career-related insights on major social media platforms.",
+"name": " Lindsey Simon",
+"bio": "Lindsey Simon is the VP of Engineering at Vercel. Making the Web faster has been his lifelong career ambition. Prior to Vercel, Lindsey spent seven years at Google, where he helped launch App Engine as an original core team member, and worked as a tech lead on the Google Translate and Web Performance teams. Lindsey has lived in San Francisco for the past 15 years, and his creative hobbies (beyond coding) include writing music and hunting for wild mushrooms.",
+
+"title": "Bridging the Gap Between Tech & Business",
+"description": null,
+"name": "Rita Castro",
+"bio": "Software Engineer that used to build stand alone applications for data processing and mission planning systems turned into a Full-Stack Developer working with Test Driven Development, XP and Pair Programming. Also a Mom now. \n",
+"name": "Anna J McDougall",
+"bio": "Anna McDougall grew up in Sydney, Australia, and moved to Germany in 2015 to pursue a career as an opera singer. At 32, she rediscovered her love for code and technology and made the switch to software engineering. She quickly discovered her mix of technical and social skills made her perfect for technical leadership, and she now works as Director, Product and Engineering (Projects and Organisation) for the tech subsidiary of Europe's largest media publisher, Axel Springer National Media & Tech, based in Berlin, Germany. Anna has helped hundreds of career changers pursue new careers in tech, with her book \"You Belong in Tech: How to Go from Zero Programming Knowledge to Hired\" quickly hitting #1 on Amazon for Career Guide New Releases in July 2022. In 2023, she delivered her TEDx Talk for the Technical University of Berlin, titled \"Finding and Proving Your Value as a Career Changer\".",
+"name": "Bassem Dghaidi",
+"bio": "Bassem Dghaidi enjoys solving hard problems in internet scale distributed systems and takes pride in abolishing organisational inefficiencies and adopting a cross-disciplined approach to problem solving.\nBassem is a Senior Software Engineer at GitHub, where he is currently focused on building the next generation of GitHub Actions. With a career spanning over 15 years, Bassem worked across various industries, including TechEd, car manufacturing, FinTech, transportation and logistics.\nIn a previous role, Bassem worked closely with some of the largest corporate customers and Fortune 500 companies as a trusted advisor. He helped these enterprises optimise their software development lifecycle and adopt DevOps best practices.\nApart from his work at GitHub, Bassem is passionate about empowering the next generation of technologists. He was a founding member of SE Factory, a technical career accelerator that has become Lebanon’s leading training program for aspiring software engineers.\nBassem is also an active podcaster and content creator sharing his technical and career-related insights on major social media platforms.",
+"name": "Lirone Glikman",
+"bio": "Lirone Glikman is an International Keynote Speaker, thought leader specializing in Networking and Personal Branding, and a Global Business Development Consultant for tech companies. She has been working with developers for over a decade and very passionate about helping others succeed through her methodologies. ",
+"name": "Anemari Fiser",
+"bio": "Anemari Fiser is a seasoned Engineering Leader and Certified Career Coach, recognized as a LinkedIn Top Voice and the Spain Country Director at Global Women Tech Leaders. With a decade of diverse roles in the tech industry, from Software Engineer to Product Director, she is now a solopreneur utilising her technical and leadership expertise to help others level up their tech careers. In the past 3 years, Anemari has helped over 500 people launch and advance to leadership positions and trained over 150 Tech Leads in building high-performing teams. Her influence extends to a 20,000+ strong tech professional community on LinkedIn and 3,000+ readers of her bi-weekly newsletter, “Level up as a Tech Lead”.",

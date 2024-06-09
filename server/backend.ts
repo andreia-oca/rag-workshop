@@ -22,10 +22,14 @@ export type Talks = {
   bio: string;
 }
 
+const CONTEXT_DOCS_NUMBER = 15
+
 @GenezioDeploy()
 export class BackendService {
   constructor() {}
 
+  // I am a fullstack software engineer interested in: open source, generative ai, backend technologies, cloud, cloud native, deployment, dev tools.
+  // I am a product engineer interested in leadership, defining clear scopes, user experience, getting feedback
   async ask(user: UserDescription): Promise<string> {
       const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
       if (!OPENAI_API_KEY) {
@@ -33,27 +37,6 @@ export class BackendService {
           "You need to provide an OpenAI API key. Go to https://platform.openai.com/account/api-keys and save it in a `.env` file.",
         );
       }
-
-      // Define the OpenAI model
-      const model = new OpenAI({
-        modelName: "gpt-4o",
-        openAIApiKey: OPENAI_API_KEY,
-        temperature: 0,
-        verbose: true
-      });
-
-      // Define the prompt that will be fed to the model
-      const prompt = ChatPromptTemplate.fromMessages([
-        [
-          "ai",
-          `You are a helpful assistant for ${user.name}. Based on the user description select the top 3 talks from the context that are most relevant to the user.
-
-{context}`,
-        ],
-        [
-          "human",
-          `My name is ${user.name}. I am a ${user.description}.`,],
-      ]);
 
       // Set the database path
       const database = "./lancedb";
@@ -64,24 +47,79 @@ export class BackendService {
 
       // Initialize the vector store object with the OpenAI embeddings and the table
       const vectorStore = new LanceDB(new OpenAIEmbeddings(), { table });
+
+      // Debugging: Retrieve the most similar context to the input question
+      const result = await vectorStore.similaritySearch(user.description, CONTEXT_DOCS_NUMBER);
+      for (const item of result) {
+        console.log("Context metadata: ", item.metadata);
+        console.log("Context content: ", item.pageContent.slice(0, 10));
+      }
+
       // Retrieve the most similar context to the input question
-      const retriever = vectorStore.asRetriever(1);
-      // Create an output parser that will convert the model's response to a string
-      const outputParser = new StringOutputParser();
+      const retriever = vectorStore.asRetriever(
+        {
+          vectorStore: vectorStore,
+          k: CONTEXT_DOCS_NUMBER,
+          searchType: "similarity",
+          filter: {},
+        },
+        {
+          verbose: true
+        },
+      );
 
       // Create a pipeline that will feed the input question and the database retrieved context to the model
       const setupAndRetrieval = RunnableMap.from({
         context: new RunnableLambda({
-          // eslint-disable-next-line @typescript-eslint/no-explicit-any
-          func: (input: string) => retriever.invoke(input).then((response) => response[0].pageContent),
-        }).withConfig({ runName: "contextRetriever" }),
+          func: (input: string) => {
+            return retriever.invoke(input).then((response) => response.map(item => item.pageContent).join(' ')
+          )
+          }
+        }).withConfig({ runName: "context" }),
         question: new RunnablePassthrough(),
       });
 
+      // Define the prompt that will be fed to the model
+      const prompt = ChatPromptTemplate.fromMessages([
+        [
+          "ai",
+          `Your task is to advise me on the top 3 speakers I should see at a conference.
+
+Based on the provided user description select the top 3 speakers you would recommend to the user.
+You must also mention why you selected these speakers.
+
+You must respond as a json object with the following structure: a list of speakers with the following fields: speaker, why.
+
+Do not add any additional information to the response.
+
+Respond only based on the context provided below - do not use any external information:
+
+Context: {context}`,
+        ],
+        [
+          "human",
+          `User description: {question}`,],
+      ]);
+
+      // Define the OpenAI model
+      const model = new OpenAI({
+        modelName: "gpt-4o",
+        openAIApiKey: OPENAI_API_KEY,
+        temperature: 0.9,
+        verbose: true
+      });
+
+      // Create an output parser that will convert the model's response to a string
+      const outputParser = new StringOutputParser();
+
       // Feed the input question and the database retrieved context to the model
       const chain = setupAndRetrieval.pipe(prompt).pipe(model).pipe(outputParser);
+
       // Invoke the model to answer the question
-      const response = await chain.invoke(user.description);
+      const response = await chain.invoke(
+        user.description,
+      );
+
       console.log("Answer:", response);
 
       return response;
