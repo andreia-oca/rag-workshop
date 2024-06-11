@@ -10,9 +10,9 @@ Feel free to fork it and use it as a template for your own projects.
   <a href="https://gitpod.io/#https://github.com/andreia-oca/rag-workshop" style="margin-right: 10px;">
     <img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" style="height: 30px;"/>
   </a>
-  <a href="https://open.vscode.dev/andreia-oca/rag-workshop" style="margin-right: 10px;">
+  <!-- <a href="https://open.vscode.dev/andreia-oca/rag-workshop" style="margin-right: 10px;">
     <img src="https://img.shields.io/static/v1?label=Open%20in%20VSCode&message=Open&color=blue&logo=visualstudiocode" alt="Open in Visual Studio Code" style="height: 30px;"/>
-  </a>
+  </a> -->
   <a href="https://codespaces.new/andreia-oca/rag-workshop">
     <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces" style="height: 30px;"/>
   </a>

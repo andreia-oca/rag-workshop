@@ -1,0 +1,33 @@
+{
+	"name": "genezio",
+	"context": ".",
+	"dockerFile": "Dockerfile",
+
+    "forwardPorts": [8083, 5173],
+
+    "portsAttributes": {
+        "8083": {
+            "label": "Application",
+            "onAutoForward": "ignore"
+        },
+        "5173": {
+            "label": "Application",
+            "onAutoForward": "ignore"
+        }
+
+    },
+    "features": {
+        "github-cli": "latest"
+    },
+    "postCreateCommand": "/bin/bash ./.devcontainer/change_port_visibility.sh 8083 public 5173 public",
+    "postAttachCommand": "/bin/bash ./.devcontainer/change_port_visibility.sh 8083 public 5173 public",
+    "postStartCommand": "/bin/bash ./.devcontainer/change_port_visibility.sh 8083 public 5173 public",
+
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "workbench.colorTheme": "Default Dark+"
+            }
+        }
+    }
+}
