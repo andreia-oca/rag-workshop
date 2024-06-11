@@ -28,4 +28,4 @@ jobs:
       - name: Login with genezio - this step is required because we don't cache the genezio auth file
         run: genezio login ${{ secrets.GENEZIO_TOKEN }}
       - name: Deploy backend
-        run: genezio deploy --backend
+        run: genezio deploy
