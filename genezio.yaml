@@ -18,6 +18,7 @@ backend:
   scripts:
     # List of scripts to run before deploying the backend.
     deploy: npm install
+    local: npm install
 # Information about the frontend, including the path, language, and publish directory.
 # It is optional. It can also be an array if there are multiple frontends you want to deploy.
 frontend:
@@ -37,3 +38,4 @@ frontend:
       - npm install
     # List of scripts that build your frontend before deployment. It should populate the specified `publish` directory.
     build: npm run build
+  subdomain: white-symbolic-galliform

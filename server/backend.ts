@@ -39,6 +39,7 @@ export class BackendService {
 
       // Connect to the database
       const db = await connect(DATABASE_PATH);
+
       // Open the table
       const table = await db.openTable("vectors");
 

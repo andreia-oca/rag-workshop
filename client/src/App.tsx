@@ -17,10 +17,18 @@ export default function App() {
       name: name || defaultName,
       description: description || defaultDescription,
     };
-    console.log(user);
-    setResponse(await BackendService.ask(user));
-    console.log(response);
-    setLoading(false);
+    
+    try {
+      console.log(user);
+      const response = await BackendService.ask(user);
+      setResponse(response);
+      console.log(response);
+    } catch (error) {
+      console.error("An error occurred:", error);
+      alert("An error has occurred. Please try again later!")
+    } finally {
+      setLoading(false);
+    }
   }
 
   return (

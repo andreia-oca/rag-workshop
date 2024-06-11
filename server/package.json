@@ -9,6 +9,7 @@
     "license": "ISC",
     "dependencies": {
         "@genezio/types": "^1.0.14",
+        "@lancedb/vectordb-linux-x64-gnu": "^0.5.0",
         "@langchain/community": "^0.0.44",
         "@langchain/openai": "^0.0.26",
         "@langchain/textsplitters": "^0.0.3",
